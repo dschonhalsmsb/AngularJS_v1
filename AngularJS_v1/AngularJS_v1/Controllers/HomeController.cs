@@ -107,3 +107,13 @@ namespace AngularJS_v1.Controllers
 
     }
 }
+
+/*
+ * 
+ * In AngularJS we have used following directives
+
+ng-Click: The ngClick directive allows you to specify custom behavior when an element is clicked.
+ng-controller: The ngController directive attaches a controller class to the view
+ng-Repeat: The ngRepeat directive instantiates a template once per item from a collection. Each template instance gets its own scope, where the given loop variable is set to the current collection item, and $index is set to the item index or key.
+ng-model: ngModel is responsible for Binding the view into the model, which other directives such as input, textarea or select require.
+ * */
